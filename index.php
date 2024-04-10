@@ -1000,7 +1000,7 @@ if(isset($_POST['submit'])){
                   <div class="col-md-6 form-group">
                     <input
                       type="text"
-                      name="name"
+                      name="fname"
                       class="form-control"
                       id="name"
                       placeholder="Your Name"
@@ -1022,7 +1022,7 @@ if(isset($_POST['submit'])){
                   <input
                     type="text"
                     class="form-control"
-                    name="subject"
+                    name="lname"
                     id="subject"
                     placeholder="Subject"
                     required
